@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="p1">
+        <item> 1-ше питання блок 1</item>
+        <item> 2-ше питання блок 1</item>
+        <item> 3-ше питання блок 1</item>
+        <item> 4-ше питання блок 1</item>
+        <item> 5-ше питання блок 1</item>
+        <item> 6-ше питання блок 1</item>
+    </string-array>
+
+    <string-array name="p1_d">
+        <item> </item>
+        <item> kk ndj bjkdbkjdkjn jbdjvb djvbsd</item>
+        <item> dnjb sb jsdb g?\n bdjbjbhsbdhbdshbdj?\n hdhhhhss?</item>
+        <item>  dfhff n fnfn</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+
+    <string-array name="p1_dodatok">
+        <item> d bdb df bbdb bdb</item>
+        <item> kk ndj bjkdbkjdkjn jbdjvb djvbsd</item>
+        <item> dnjb sb fdf bd fbfbbfbdsfbdfb dbsbdhbds bfdbfb sdbbsb hdhhhhss?</item>
+        <item>  dfhff n f fd df bdfbnfn</item>
+        <item> d bdb sdb</item>
+        <item>  dbfdb dfbd</item>
+    </string-array>
+
+
+    <string-array name="p2">
+        <item> 1-ше питання блок 2</item>
+        <item> 2-ше питання блок 2</item>
+        <item> 3-ше питання блок 2</item>
+        <item> 4-ше питання блок 2</item>
+        <item> 5-ше питання блок 2</item>
+        <item> 6-ше питання блок 2</item>
+    </string-array>
+
+    <string-array name="p2_d">
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> kk ndj bjkdbkjdkjn jbdjvb djvbsd</item>
+        <item> dnjb sb jsdb g?\n bdjbjbhsbdhbdshbdj?\n hdhhhhss?</item>
+        <item>  dfhff n fnfn</item>
+    </string-array>
+
+    <string-array name="p2_dodatok">
+        <item> d bdb df bbdb bdb</item>
+        <item> kk ndj bjkdbkjdkjn jbdjvb djvbsd</item>
+        <item> dnjb sb fdf bd fbfbbfbdsfbdfb dbsbdhbds bfdbfb sdbbsb hdhhhhss?</item>
+        <item>  dfhff n f fd df bdfbnfn</item>
+        <item> d bdb sf fdb dfb dfbdb</item>
+        <item>  dbf fd fbdfbf dbdb  db fdbdbdb dfbd</item>
+    </string-array>
+
+
+    <string-array name="p3">
+        <item> 1-ше питання блок 3</item>
+        <item> 2-ше питання блок 3</item>
+        <item> 3-ше питання блок 3</item>
+        <item> 4-ше питання блок 3</item>
+        <item> 5-ше питання блок 3</item>
+        <item> 6-ше питання блок 3</item>
+    </string-array>
+
+    <string-array name="p3_d">
+        <item> </item>
+
+        <item> </item>
+        <item> kk ndj bjkdbkjdkjn jbdjvb djvbsd</item>
+        <item> dnjb sb jsdb g?\n bdjbjbhsbdhbdshbdj?\n hdhhhhs</item>
+        <item>  dfhff n fnfn</item>
+        <item> </item>
+    </string-array>
+
+    <string-array name="p3_dodatok">
+        <item> d bdb df bwefg fs bdb bdb</item>
+        <item> kk ndj bjkdg dggfa f dsf bkjdkjn jbdjvb djvbsd</item>
+        <item> dnjb sb f   egr grgre gdf bd fbfbbfbdsfbdfb dbsbdhbds bfdbfb sdbbsb hdhhhhss?</item>
+        <item>  dfhff n f fd df bdfbnfn</item>
+        <item> d bdb sdb   dfgeg g </item>
+        <item>  dbfdb dfbd</item>
+    </string-array>
+
+
+    <string-array name="p4">
+        <item> 1-ше питання блок 4</item>
+        <item> 2-ше питання блок 4</item>
+        <item> 3-ше питання блок 4</item>
+        <item> 4-ше питання блок 4</item>
+        <item> 5-ше питання блок 4</item>
+        <item> 6-ше питання блок 4</item>
+    </string-array>
+
+    <string-array name="p4_d">
+        <item> </item>
+        <item>  dfhff n fnfn</item>
+        <item> </item>
+        <item> </item>
+        <item> kk ndj bjkdbkjdkjn jbdjvb djvbsd</item>
+        <item> dnjb sb jsdb g?\n bdjbjbhsbdhbdshbdj?\n hdhhhhs</item>
+
+    </string-array>
+    <string-array name="p4_dodatok">
+        <item> d bdb df b s df bdfbbdb bdb</item>
+        <item> kk ndj bjkdbkjdkjn jbdjvb djvbsd</item>
+        <item> dnjb sb fdf bd fbfbbfbdsfbdfb dbsbdhbds bfdbfb sdbbsb hdhhhhss?</item>
+        <item>  dfhff n f fd df bdfbnfn</item>
+        <item> d bdb sdb</item>
+        <item>  dbfdb dfbd</item>
+    </string-array>
+
+</resources>
